@@ -100,8 +100,6 @@ introduz conceitos específicos da linguagem e da engenharia de software.
 - Classes e objetos
 - Métodos e atributos
 - Encapsulamento
-- Construtores (`__init__`)
-- Organização de código em múltiplos arquivos
 - Modelagem de sistemas através de objetos
 
 ---
@@ -336,9 +334,7 @@ focuses on specific programming concepts and engineering practices.
 
 - Classes and objects
 - Methods and attributes
-- Constructors (`__init__`)
 - Encapsulation principles
-- Structuring code across multiple files
 - Modeling real-world systems with OOP
 
 ---
