@@ -237,7 +237,7 @@ Este repositório documenta minha evolução técnica durante a Piscina Python d
 servindo como histórico de aprendizado e como base para futuros projetos
 em desenvolvimento Python.
 
-#English Version
+# English Version
 
 *This project has been created as part of the 42 curriculum by <login1>.*
 
